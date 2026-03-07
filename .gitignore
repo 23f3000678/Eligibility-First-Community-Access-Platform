@@ -45,3 +45,6 @@ tmp/
 temp/
 #created by kashif
 /todo
+todo.txt
+bucket-policy.json
+cloudfront-config.json
