@@ -168,11 +168,24 @@ Your DataShade AI Eligibility Platform is now deployed and accessible worldwide!
 
 ---
 
+## 🛑 How to Disable and Stop Charges
+
+If you want to take down the website and stop AWS charges:
+
+**See**: `TEARDOWN_GUIDE.md` for complete step-by-step instructions
+
+**Quick teardown**: Run `teardown-all.bat` (automated script)
+
+This will safely delete all AWS resources and stop all charges.
+
+---
+
 ## 📞 Support
 
 For issues or questions:
 1. Check CloudWatch logs for errors
 2. Review the DEPLOYMENT_GUIDE.md for detailed instructions
 3. Verify all AWS services are running in ap-south-1 region
+4. See TEARDOWN_GUIDE.md to disable and stop charges
 
 **Happy deploying! 🚀**
